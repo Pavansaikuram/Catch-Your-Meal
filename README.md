@@ -1,4 +1,5 @@
 # Catchyourmeal
+by Pavansai Kuramsetti, Tejeswar Reddy Alle, Aninditha Guha, Mayank Chaturvedi.
 
 Our application CatchYourMeal helps people in finding their favorite meals and have their food delivered at their doorstep.
 Not only this, the application lets you choose your favorite meal, also customers can even customize their meal according to their dietary needs. 
